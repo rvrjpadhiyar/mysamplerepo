@@ -70,5 +70,5 @@ class AlienInvasion:
         pygame.display.flip()
 
 if __name__ == "__main__":
-    ai = AlienInvasion()
-    ai.run_game()
+    ai1 = AlienInvasion()
+    ai1.run_game()
